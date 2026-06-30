@@ -1,2 +1,2 @@
 # SuperMotoFool.github.io
-A colelction of my work 
+A collection of my work 
